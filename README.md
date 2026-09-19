@@ -8,19 +8,25 @@ Author(s):
 
 Originally presented at Climate Change AI Summer School 2022, revised annually for 2023, 2024, and 2026.
 
+Completed by **Berkant Duman** for the **Climate Change AI Virtual Summer School 2026**. Both tutorial parts are included in this single public repository, so this repository URL is the one submission link.
+
 ## Access this tutorial
 
 We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies.
 
-Part 1: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/nlp-policy-analysis/blob/main/part1_evidence_synthesis.ipynb">
+Part 1: <a target="_blank" href="https://colab.research.google.com/github/Lonfea/nlp-policy-analysis/blob/main/part1_evidence_synthesis.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Part 2: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/nlp-policy-analysis/blob/main/part2_paris_prompts.ipynb">
+Part 2: <a target="_blank" href="https://colab.research.google.com/github/Lonfea/nlp-policy-analysis/blob/main/part2_paris_prompts.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 Estimated time to execute end-to-end: 2 hours
+
+### Part 2 API setup
+
+Part 2 uses the OpenAI API for text generation and embeddings. In Google Colab, open **Secrets** (the key icon), create a secret named `OPENAI_API_KEY`, and enable notebook access. Never paste an API key into the notebook or commit it to GitHub. API usage may incur charges.
 
 ## Contribute to this tutorial
 
