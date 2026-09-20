@@ -1,4 +1,17 @@
 # NLP Models for Climate Policy Analysis
+
+> **Portfolio implementation — Climate Change AI Virtual Summer School 2026**  
+> Completed by **Berkant Duman**. Original tutorial authorship, citations, and license are preserved below.
+
+## Portfolio snapshot
+
+This two-part project applies **NLP and large language models to climate-policy analysis**, spanning supervised evidence synthesis and LLM-based document classification.
+
+**Skills demonstrated:** NLP · supervised text classification · embeddings · LLM prompting · policy-document analysis · evaluation workflows · API-based AI systems
+
+**Decision context:** Automated text analysis can help researchers and policymakers navigate rapidly growing climate-policy and scientific literatures, but outputs still require validation and careful interpretation.
+
+
 Explore how Natural Language Processing (NLP) can be used to assist in identifying and mapping climate-relevant literature using a supervised learning approach and leverage a state of the art Large Language Model (LLM) to classify climate policy documents.
 
 Author(s):
